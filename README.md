@@ -27,7 +27,7 @@ Whether you’re a client looking to connect with talented tailors or a tailor s
 **Frontend**  
 - HTML5, CSS3  
 - JavaScript  
-- TailwindCSS (or insert CSS framework used)
+- TailwindCSS 
 
 **Backend**  
 - C# ASP.NET Core  
@@ -45,9 +45,7 @@ Whether you’re a client looking to connect with talented tailors or a tailor s
 
 ### **Prerequisites**  
 Ensure you have the following installed:  
-- [Node.js](https://nodejs.org/) for frontend builds (if applicable)  
-- [Visual Studio](https://visualstudio.microsoft.com/) for ASP.NET Core development  
-- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) (for deployment)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
@@ -55,51 +53,20 @@ Ensure you have the following installed:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/PlayzAe/TailorLink.git
+   git clone https://github.com/PlayzAe/Fashion
    cd TailorLink
    ```
 
-2. **Frontend Setup**  
-   - Navigate to the frontend directory and install dependencies:  
-     ```bash
-     cd TailorLinkFrontend
-     npm install
-     npm run build
-     ```
 
-3. **Backend Setup**  
-   - Open the solution in Visual Studio and configure `appsettings.json` with your Azure SQL Database connection string.  
-
-4. **Run the Application**  
-   - Start the backend server:  
-     ```bash
-     dotnet run
-     ```
-   - Start the frontend server (if using a separate service):  
-     ```bash
-     npm start
-     ```
-
-5. **Access the Website**  
+2. **Access the Website**  
    Navigate to `http://localhost:5000` (or the specified local port).
 
 ---
 
-## 🧰 **Project Structure**
-
-```
-TailorLink/
-├── TailorLinkFrontend/       # Frontend code
-├── TailorLinkAPI/            # ASP.NET Core Web API
-├── TailorLinkDatabase/       # Database Scripts and Configurations
-└── README.md                 # Documentation
-```
-
----
 
 ## 📸 **Screenshots**
 
-_Add screenshots of the website showcasing the homepage, tailor profiles, and key features!_
+Coming soon
 
 ---
 
@@ -119,12 +86,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🌍 **Connect With Us**
 
-📧 Email: [contact@tailorlink.ng](mailto:contact@tailorlink.ng)  
-🌐 Website: [www.tailorlink.ng](https://www.tailorlink.ng)  
+🌐 Website: [www.tailorlink.ng](https://playzae.github.io/Fashion/)  
 ```
 
-### Tips:
-- Replace placeholders like `screenshots` and `www.tailorlink.ng` with actual details or links as needed.
-- Use screenshots and badges (e.g., GitHub Actions, license) to make it more visually appealing.  
 
-Would you like to add specific branding elements like a logo?
