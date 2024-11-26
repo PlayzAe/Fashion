@@ -30,14 +30,10 @@ Whether you’re a client looking to connect with talented tailors or a tailor s
 - TailwindCSS 
 
 **Backend**  
-- C# ASP.NET Core  
-- REST API Integration
-
-**Database**  
-- Azure SQL Database  
+- Null
 
 **Hosting**  
-- Deployed on Azure Web Services  
+- Deployed on github pages
 
 ---
 
